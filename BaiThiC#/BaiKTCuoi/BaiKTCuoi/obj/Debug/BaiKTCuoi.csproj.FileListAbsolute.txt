@@ -1,0 +1,10 @@
+F:\BaiThiC#\BaiKTCuoi\BaiKTCuoi\bin\Debug\BaiKTCuoi.exe
+F:\BaiThiC#\BaiKTCuoi\BaiKTCuoi\bin\Debug\BaiKTCuoi.pdb
+F:\BaiThiC#\BaiKTCuoi\BaiKTCuoi\obj\Debug\BaiKTCuoi.csprojAssemblyReference.cache
+F:\BaiThiC#\BaiKTCuoi\BaiKTCuoi\obj\Debug\BaiKTCuoi.AboutBox1.resources
+F:\BaiThiC#\BaiKTCuoi\BaiKTCuoi\obj\Debug\BaiKTCuoi.Form1.resources
+F:\BaiThiC#\BaiKTCuoi\BaiKTCuoi\obj\Debug\BaiKTCuoi.Properties.Resources.resources
+F:\BaiThiC#\BaiKTCuoi\BaiKTCuoi\obj\Debug\BaiKTCuoi.csproj.GenerateResource.cache
+F:\BaiThiC#\BaiKTCuoi\BaiKTCuoi\obj\Debug\BaiKTCuoi.csproj.CoreCompileInputs.cache
+F:\BaiThiC#\BaiKTCuoi\BaiKTCuoi\obj\Debug\BaiKTCuoi.exe
+F:\BaiThiC#\BaiKTCuoi\BaiKTCuoi\obj\Debug\BaiKTCuoi.pdb

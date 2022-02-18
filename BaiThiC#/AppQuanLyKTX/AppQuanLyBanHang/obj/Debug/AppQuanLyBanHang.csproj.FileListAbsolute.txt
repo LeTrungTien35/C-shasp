@@ -1,0 +1,13 @@
+F:\BaiThiC#\AppQuanLyBanHang\AppQuanLyBanHang\bin\Debug\AppQuanLyBanHang.exe
+F:\BaiThiC#\AppQuanLyBanHang\AppQuanLyBanHang\bin\Debug\AppQuanLyBanHang.pdb
+F:\BaiThiC#\AppQuanLyBanHang\AppQuanLyBanHang\obj\Debug\AppQuanLyBanHang.csprojAssemblyReference.cache
+F:\BaiThiC#\AppQuanLyBanHang\AppQuanLyBanHang\obj\Debug\AppQuanLyBanHang.Properties.Resources.resources
+F:\BaiThiC#\AppQuanLyBanHang\AppQuanLyBanHang\obj\Debug\AppQuanLyBanHang.csproj.GenerateResource.cache
+F:\BaiThiC#\AppQuanLyBanHang\AppQuanLyBanHang\obj\Debug\AppQuanLyBanHang.csproj.CoreCompileInputs.cache
+F:\BaiThiC#\AppQuanLyBanHang\AppQuanLyBanHang\obj\Debug\AppQuanLyBanHang.exe
+F:\BaiThiC#\AppQuanLyBanHang\AppQuanLyBanHang\obj\Debug\AppQuanLyBanHang.pdb
+F:\BaiThiC#\AppQuanLyBanHang\AppQuanLyBanHang\obj\Debug\AppQuanLyBanHang.frmMain.resources
+F:\BaiThiC#\AppQuanLyBanHang\AppQuanLyBanHang\obj\Debug\AppQuanLyBanHang.frmNhanvien.resources
+F:\BaiThiC#\AppQuanLyBanHang\AppQuanLyBanHang\obj\Debug\AppQuanLyBanHang.frmKhachHang.resources
+F:\BaiThiC#\AppQuanLyBanHang\AppQuanLyBanHang\obj\Debug\AppQuanLyBanHang.frmHanghoa.resources
+F:\BaiThiC#\AppQuanLyBanHang\AppQuanLyBanHang\obj\Debug\AppQuanLyBanHang.frmHoadonbanhang.resources

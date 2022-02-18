@@ -1,0 +1,5 @@
+P:\Winform\BaiTap\AppKTX\LibKtx\bin\Debug\LibKtx.dll
+P:\Winform\BaiTap\AppKTX\LibKtx\bin\Debug\LibKtx.pdb
+P:\Winform\BaiTap\AppKTX\LibKtx\obj\Debug\LibKtx.csprojResolveAssemblyReference.cache
+P:\Winform\BaiTap\AppKTX\LibKtx\obj\Debug\LibKtx.dll
+P:\Winform\BaiTap\AppKTX\LibKtx\obj\Debug\LibKtx.pdb

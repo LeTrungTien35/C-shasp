@@ -1,0 +1,9 @@
+F:\BaiThiC#\AppQuanLyKiTucXa\AppQuanLyKiTucXa\AppQuanLyKiTucXa\bin\Debug\AppQuanLyKiTucXa.exe
+F:\BaiThiC#\AppQuanLyKiTucXa\AppQuanLyKiTucXa\AppQuanLyKiTucXa\bin\Debug\AppQuanLyKiTucXa.pdb
+F:\BaiThiC#\AppQuanLyKiTucXa\AppQuanLyKiTucXa\AppQuanLyKiTucXa\obj\Debug\AppQuanLyKiTucXa.csproj.AssemblyReference.cache
+F:\BaiThiC#\AppQuanLyKiTucXa\AppQuanLyKiTucXa\AppQuanLyKiTucXa\obj\Debug\AppQuanLyKiTucXa.Form1.resources
+F:\BaiThiC#\AppQuanLyKiTucXa\AppQuanLyKiTucXa\AppQuanLyKiTucXa\obj\Debug\AppQuanLyKiTucXa.Properties.Resources.resources
+F:\BaiThiC#\AppQuanLyKiTucXa\AppQuanLyKiTucXa\AppQuanLyKiTucXa\obj\Debug\AppQuanLyKiTucXa.csproj.GenerateResource.cache
+F:\BaiThiC#\AppQuanLyKiTucXa\AppQuanLyKiTucXa\AppQuanLyKiTucXa\obj\Debug\AppQuanLyKiTucXa.csproj.CoreCompileInputs.cache
+F:\BaiThiC#\AppQuanLyKiTucXa\AppQuanLyKiTucXa\AppQuanLyKiTucXa\obj\Debug\AppQuanLyKiTucXa.exe
+F:\BaiThiC#\AppQuanLyKiTucXa\AppQuanLyKiTucXa\AppQuanLyKiTucXa\obj\Debug\AppQuanLyKiTucXa.pdb
